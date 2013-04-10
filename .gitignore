@@ -9,7 +9,7 @@ public class BielanChuj{
 
 String Bielele;
 
-public BielanChuj(){
+public BielanPrzyjacielNaszNajwikszy(){
 Bielele = null;
 }
 
