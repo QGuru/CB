@@ -4,3 +4,13 @@
 *.jar
 *.war
 *.ear
+
+public class BielanChuj{
+
+String Bielele;
+
+public BielanChuj(){
+Bielele = null;
+}
+
+}
